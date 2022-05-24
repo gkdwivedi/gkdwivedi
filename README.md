@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gkdwivedi
+- 👋 Hi, I’m Gaurav Dwivedi
 - 👀 I’m interested in Applied Mathematics
 - 🌱 I’m currently Geophysicist @ Oil & Natural Gas Corporation
 - 💞️ I’m looking to collaborate on open sorce geoscience modules
